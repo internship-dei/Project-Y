@@ -9,7 +9,7 @@ You will need to find URL patterns with which you can go to each day of the two 
 
 For each of the file to be identifiable independently , create a sequence pattern which will be used for nameing the file. For e.g : 
 
-*thehindu_feb_02_file_23.json
+*thehindu_feb_02_file_23.json, 
 thehindu_feb_02_file_24.json* etc .
 
 You will also need to store all these file names with their respective URLs from which the content is scraped in another *lookup file* , say URLs_to_file_mapping.csv . Content of this will look like -
