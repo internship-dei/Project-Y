@@ -16,7 +16,9 @@ You will also need to store all these file names with their respective URLs from
 
 file_scraped | Corresponding_URL
 
+
 thehindu_feb_02_file_1.json | https://www.thehindu.com/sport/other-sports/radjabov-closer-to-beating-dubov/article33475129.ece 
+
 thehindu_feb_02_file_2.json | https://www.thehindu.com/sport/other-sports/nba-wall-makes-rockets-debut-in-win-over-kings/article33475123.ece
 
 The intent of look up file is to eventually tag the Topics identified for each URL back to them via the *topics -> scraped file -> URLs linkage
