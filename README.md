@@ -31,7 +31,7 @@ Once you've scraped the two weeks worth of data , the idea is to perform Topic M
 
 Find out the optimal topics number based on Topic Coherence score along with manual review of Topic - words quality.Iterate until you can get the diverse and best topics with words that closely define a theme/topic
 
-For each of the Topic that have been identified - give the Topic Name based on IAB Taxonomy attached. IAB Taxonomy is a standard followed across web to provide web page content a consistent Topic naming convention. hIghlighted in the attached XLS are two Tiers - I & II. Tier I is a broad category , whereas Tier II is sub category under Tier I. First ensure you assign Tier I based Topics mapping based on the content and Topic words as they show up. If you feel two topics fall under the same Tier I category then look at assigning further sub-category of Tier II.
+For each of the Topic that have been identified - give the Topic Name based on IAB Taxonomy attached. IAB Taxonomy is a standard followed across web to provide web page content a consistent Topic naming convention. Highlighted in the attached XLS are two Tiers - I & II. Tier I is a broad category , whereas Tier II is sub category under Tier I. First ensure you assign Tier I based Topics mapping based on the content and Topic words as they show up. If you feel two topics fall under the same Tier I category then look at assigning further sub-category of Tier II.
 
 Based on the above Topic names assignment , save the model and then assign the topics to 10% test set. Try doing manual review for few set of links i.e whether the assigned topics make sense to the what URL web page is about ? Come up with metrics around Accuracy or any other that you feel relevant to measure the quality of Topic Model
 
