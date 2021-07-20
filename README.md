@@ -3,7 +3,7 @@
 This project consists of two components -
 
 ### Component 1 - Web Scraping module
-You are required to scrape two weeks ( Feb 1 , 2021 to Feb 14 , 2021) of web news files from The Hindu archive site : https://www.thehindu.com/archive/web/2019/02/ . As per the Robots.txt at Hindu website(https://www.thehindu.com/robots.txt) , the archives section is NOT in disallow , thus it implies it is within legal norms to scrape the archive section.
+You are required to scrape two weeks ( Feb 1 , 2021 to Feb 14 , 2021) of web news files from The Hindu archive site : https://www.thehindu.com/archive/web/2021/02/ . As per the Robots.txt at Hindu website(https://www.thehindu.com/robots.txt) , the archives section is NOT in disallow , thus it implies it is within legal norms to scrape the archive section.
 
 You will need to find URL patterns with which you can go to each day of the two weeks period of February month , find web links and then recursively hit all the web new pages that have occured on that page. From each of the page , you need to scrape out the web content and create an independent JSON file that will capture all the text details as values and store them in a key named "text" within that file.
 
